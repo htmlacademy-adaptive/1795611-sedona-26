@@ -1,7 +1,7 @@
 # Личный проект «Седона» 
 
 * Студент: [Sergey Odokiy](https://up.htmlacademy.ru/adaptive/26/user/1795611).
-* Наставник: `Неизвестно`.
+* Наставник: [Александр Карташов](https://htmlacademy.ru/profile/id77080).
 
 ---
 
